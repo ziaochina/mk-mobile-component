@@ -1,6 +1,6 @@
 {
   "name": "mk-mobile-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/index",
   "scripts": {
@@ -30,7 +30,8 @@
     "classnames": "^2.2.5",
     "omit.js": "^1.0.0",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "react-fa": "^5.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
