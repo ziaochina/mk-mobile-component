@@ -1,6 +1,7 @@
 import FlexComponent from './components/flex'
 import WingBlankComponent from './components/wingBlank'
 import WhiteSpaceComponent from './components/whiteSpace'
+import DrawerComponent from './components/drawer'
 import MenuComponent from './components/menu'
 import NavBarComponent from './components/navBar'
 import PopoverComponent from './components/popover'
@@ -15,6 +16,7 @@ import DatePickerViewComponent from './components/datePickerView'
 import ImagePickerComponent from './components/imagePicker'
 import InputItemComponent from './components/inputItem'
 import PickerViewComponent from './components/pickerView'
+import PickerComponent from './components/picker'
 import RangeComponent from './components/range'
 import RadioComponent from './components/radio'
 import SwitchComponent from './components/switch'
@@ -51,6 +53,7 @@ import NoticeBarComponent from './components/noticeBar'
 export const Flex = FlexComponent
 export const WingBlank = WingBlankComponent
 export const WhiteSpace = WhiteSpaceComponent
+export const Drawer = DrawerComponent
 export const Menu = MenuComponent
 export const NavBar = NavBarComponent
 export const Popover = PopoverComponent
@@ -65,6 +68,7 @@ export const DatePickerView = DatePickerViewComponent
 export const ImagePicker = ImagePickerComponent
 export const InputItem = InputItemComponent
 export const PickerView = PickerViewComponent
+export const Picker = PickerComponent
 export const Range = RangeComponent
 export const Radio = RadioComponent
 export const Switch = SwitchComponent
